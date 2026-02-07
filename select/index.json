@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウェン・ユア・マッド",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T10:39:40.925830Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "When You're Mad",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_When_You're_Mad_Ne-Yo.txt"
+    }
+  ]
+}
